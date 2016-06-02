@@ -1,0 +1,10 @@
+# Generated files
+bin/
+gen/
+node_modules/
+
+# Log Files
+*.log
+
+#microsoft files
+.vscode/
